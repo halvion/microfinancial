@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:version_2/screens/home/views/home_screen.dart';
+import 'package:micro_finance/screens/home/views/home_screen.dart';
 
 class MyAppView extends StatelessWidget {
   const MyAppView({super.key});
