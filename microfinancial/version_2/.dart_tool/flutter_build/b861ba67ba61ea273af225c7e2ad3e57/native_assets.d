@@ -1,0 +1,1 @@
+ /Users/matt-os/Local\ Documents/flutter_projects/microfinancial/microfinancial/version_2/.dart_tool/flutter_build/b861ba67ba61ea273af225c7e2ad3e57/native_assets.yaml: 
