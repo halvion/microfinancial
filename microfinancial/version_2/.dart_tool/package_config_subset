@@ -190,14 +190,6 @@ web
 3.2
 file:///Users/matt-os/.pub-cache/hosted/pub.dev/web-0.3.0/
 file:///Users/matt-os/.pub-cache/hosted/pub.dev/web-0.3.0/lib/
-micro_finance
-3.2
-file:///Users/matt-os/Local%20Documents/flutter_projects/microfinancial/microfinancial/version_2/
-file:///Users/matt-os/Local%20Documents/flutter_projects/microfinancial/microfinancial/version_2/lib/
-expense_repository
-3.2
-file:///Users/matt-os/Local%20Documents/flutter_projects/microfinancial/microfinancial/version_2/packages/expense_repository/
-file:///Users/matt-os/Local%20Documents/flutter_projects/microfinancial/microfinancial/version_2/packages/expense_repository/lib/
 sky_engine
 3.2
 file:///Users/matt-os/Software/flutter/bin/cache/pkg/sky_engine/
@@ -214,4 +206,12 @@ flutter_web_plugins
 3.2
 file:///Users/matt-os/Software/flutter/packages/flutter_web_plugins/
 file:///Users/matt-os/Software/flutter/packages/flutter_web_plugins/lib/
+micro_finance
+3.2
+file:///Volumes/Ext_SSD_1TB/flutter/microfinancial/microfinancial/version_2/
+file:///Volumes/Ext_SSD_1TB/flutter/microfinancial/microfinancial/version_2/lib/
+expense_repository
+3.2
+file:///Volumes/Ext_SSD_1TB/flutter/microfinancial/microfinancial/version_2/packages/expense_repository/
+file:///Volumes/Ext_SSD_1TB/flutter/microfinancial/microfinancial/version_2/packages/expense_repository/lib/
 2
