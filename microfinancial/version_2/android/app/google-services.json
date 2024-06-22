@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687404076933",
+    "project_id": "micro-financial",
+    "storage_bucket": "micro-financial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687404076933:android:5d34eca5a188ad5fa7feec",
+        "android_client_info": {
+          "package_name": "com.example.version_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM9tDlyk5vAg_zGzxbWsAThGMm3aaxRX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
