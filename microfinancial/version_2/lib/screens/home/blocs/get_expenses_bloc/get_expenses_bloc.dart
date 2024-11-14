@@ -12,9 +12,17 @@ class GetExpensesBloc extends Bloc<GetExpensesEvent, GetExpensesState> {
     on<GetExpenses>((event, emit) async {
       emit(GetExpensesLoading());
       try {
-        List<Expense> expenses = await expenseRepository.getExpenses();
+        // Add timeout to the Firebase request
+        List<Expense> expenses = await expenseRepository.getExpenses().timeout(
+          const Duration(seconds: 10),
+          onTimeout: () {
+            throw Exception('Request timed out');
+          },
+        );
         emit(GetExpensesSuccess(expenses));
       } catch (e) {
+        // Optionally log the error for debugging
+
         emit(GetExpensesFailure());
       }
     });
